@@ -1,5 +1,7 @@
 [Deutsch](README.md) | [English](README.en.md)
 
+<img src="assets/avatar.png" alt="Stephan's avatar" width="200" />
+
 # Hi, I'm Stephan
 
 I build small, focused tools — mostly around Nextcloud, accessibility, and practical everyday automation.

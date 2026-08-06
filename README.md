@@ -1,5 +1,7 @@
 [Deutsch](README.md) | [English](README.en.md)
 
+<img src="assets/avatar.png" alt="Avatar von Stephan" width="200" />
+
 # Hi, ich bin Stephan
 
 Ich entwickle kleine, fokussierte Werkzeuge – meistens rund um Nextcloud, Barrierefreiheit und praktische Automatisierung für den Alltag.
