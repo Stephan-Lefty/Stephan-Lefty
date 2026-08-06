@@ -1,5 +1,7 @@
 [Deutsch](README.md) | [English](README.en.md)
 
+![Stephan-OS](assets/splash.png)
+
 # Hi, I'm Stephan
 
 I build small, focused tools — mostly around Nextcloud, accessibility, and practical everyday automation.

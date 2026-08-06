@@ -1,5 +1,7 @@
 [Deutsch](README.md) | [English](README.en.md)
 
+![Stephan-OS](assets/splash.png)
+
 # Hi, ich bin Stephan
 
 Ich entwickle kleine, fokussierte Werkzeuge – meistens rund um Nextcloud, Barrierefreiheit und praktische Automatisierung für den Alltag.
