@@ -1,6 +1,6 @@
 [Deutsch](README.md) | [English](README.en.md)
 
-![Stephan-OS](assets/splash.png)
+![DialOS](assets/splash.png)
 
 # Hi, ich bin Stephan
 
@@ -13,7 +13,7 @@ Ich entwickle kleine, fokussierte Werkzeuge – meistens rund um Nextcloud, Barr
 - **[NEXTStatus](https://github.com/Stephan-Lefty/NEXTStatus)** – Browser-Erweiterung mit Ampel-Status für mehrere Nextcloud-Konten (Benachrichtigungen, Mail, Talk).
 - **[shopware-amicron-import](https://github.com/Stephan-Lefty/shopware-amicron-import)** – Tool zum Importieren von Shopware-6-Bestellungen in Amicron Faktura.
 
-Aktuell arbeite ich außerdem an einer barrierefreien Debian/GNOME-Live-ISO mit vollständiger Sprachsteuerung für blinde und motorisch eingeschränkte Nutzer.
+Aktuell arbeite ich außerdem an **DialOS** – einer barrierefreien Debian/GNOME-Live-ISO mit vollständiger Sprachsteuerung für blinde und motorisch eingeschränkte Nutzer (Repository noch privat).
 
 ## Kontakt
 
