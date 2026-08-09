@@ -1,6 +1,5 @@
 [Deutsch](README.md) | [English](README.en.md)
 
-![DialOS](assets/splash.png)
 
 # Hi, ich bin Stephan
 
