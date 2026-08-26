@@ -7,6 +7,7 @@ Ich entwickle kleine, fokussierte Werkzeuge – meistens rund um Nextcloud, Barr
 
 ## Projekte
 
+- **[MailBurg]([https://github.com/Stephan-Lefty/MailBurg]** – Plattformuebergreifendes Archiv fuer E-Mail. Beliebig viele Postfaecher, Archivort frei waehlbar, Volltextsuche auch in Anhaengen. Linux, Windows, macOS.
 - **[NEXTBookmarks](https://github.com/Stephan-Lefty/NEXTBookmarks)** – Browser-Erweiterung zum Synchronisieren von Lesezeichen mit einer selbst gehosteten Nextcloud (REST-API oder WebDAV).
 - **[GuideOSBookHub](https://github.com/Stephan-Lefty/GuideOSBookHub)** – Lesezeichen-Manager für Debian/Linux mit Cloud-Sync über einen frei wählbaren Anbieter (via rclone).
 - **[NEXTStatus](https://github.com/Stephan-Lefty/NEXTStatus)** – Browser-Erweiterung mit Ampel-Status für mehrere Nextcloud-Konten (Benachrichtigungen, Mail, Talk).
