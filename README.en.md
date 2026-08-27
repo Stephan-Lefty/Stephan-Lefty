@@ -17,4 +17,4 @@ I'm also currently working on **DialOS** – an accessible Debian/GNOME live ISO
 
 ## Contact
 
-[stephan.roesner@protonmail.com](mailto:stephan.roesner@protonmail.com)
+[stephan-lefty@protonmail.com](mailto:stephan-lefty@protonmail.com)
