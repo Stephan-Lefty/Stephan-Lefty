@@ -17,4 +17,4 @@ Aktuell arbeite ich außerdem an **DialOS** – einer barrierefreien Debian/GNOM
 
 ## Kontakt
 
-[stephan.roesner@protonmail.com](mailto:stephan.roesner@protonmail.com)
+[stephan-lefty@protonmail.com](mailto:stephan-lefty@protonmail.com)
