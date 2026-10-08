@@ -13,7 +13,7 @@ I build small, focused tools — mostly around Nextcloud, accessibility, and pra
 - **[NEXTStatus](https://github.com/Stephan-Lefty/NEXTStatus)** – Browser extension showing a traffic-light status for multiple Nextcloud accounts (notifications, mail, talk).
 - **[shopware-amicron-import](https://github.com/Stephan-Lefty/shopware-amicron-import)** – Tool for importing Shopware 6 orders into Amicron Faktura.
 
-I'm also currently working on **DialOS** – an accessible Debian/GNOME live ISO with full voice control for blind and motor-impaired users (repository still private).
+I'm also currently working on **DialOS** – an accessible Debian/GNOME live ISO with full voice control for blind and motor-impaired users (system is a beta version).
 
 ## Contact
 
